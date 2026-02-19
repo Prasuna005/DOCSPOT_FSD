@@ -102,7 +102,7 @@ MongoDB (Local or Atlas)
 
 # Clone the Repository
 
-git clone https://github.com/YalakaturiNarendra/DocSpot-MERN.git
+git clone https://github.com/Prasuna005/DOCSPOT_FSD.git
 
 cd DocSpot-MERN
 
